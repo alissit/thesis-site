@@ -130,14 +130,14 @@ img {
 .pagetwo {
   position: absolute;
   top: 50%;
-  left: 30%;
+  left: 20%;
   transform: translate(-50%, -50%);
   color:white;
 }
 .pagethree {
   position: absolute;
   top: 50%;
-  left: 70%;
+  left: 80%;
   transform: translate(-50%, -50%);
   color:white;
 }
