@@ -79,6 +79,20 @@ img {
   color:white;
   font-size:1.2em;
 }
+@media (min-width: 767px) {
+
+.sub-title {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color:white;
+  font-size:1.2em;
+}
+
+}
+
+
 .sub-title_two {
   position: absolute;
   top: 83%;
