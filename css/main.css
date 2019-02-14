@@ -178,3 +178,14 @@ img {
   font-style:italic;
   text-align:center;
 }
+
+.equal_height {
+  height:100px;
+}
+
+@media (min-width: 1200px) {
+
+  .equal_height {
+  height:125px;
+}
+}
