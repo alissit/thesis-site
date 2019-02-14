@@ -219,7 +219,7 @@ img {
   text-align:center;
 }
 
-.img-page_5 img{
+ img.img-page_5{
   width:auto;
   height:150px;
 }
