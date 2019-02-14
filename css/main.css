@@ -189,3 +189,10 @@ img {
   height:125px;
 }
 }
+
+@media (min-width: 768px) {
+
+    .equal_height {
+  height:80px;
+}
+}
