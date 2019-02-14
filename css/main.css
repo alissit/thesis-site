@@ -173,8 +173,10 @@ img {
   text-align:center;
 }
 .header-title_page4{
+   font-family: Felix Titling;
   font-size: 1.4em;
-  font-style:underline;
+  text-decoration: underline; 
+  text-align:center;
 }
 
 .img_subtitle{
