@@ -155,6 +155,7 @@ img {
 .header-title {
   font-family: Felix Titling;
   font-size: 1.2em;
+  text-align:center;
 }
 
 .header-title_big {
