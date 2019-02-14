@@ -148,3 +148,24 @@ img {
   transform: translate(-50%, -50%);
   color:white;
 }
+
+
+/*Pages Styling*/
+
+.header-title {
+  font-family: Felix Titling;
+  font-style:italic;
+  font-size: 1.4em;
+}
+
+.header-title_sub {
+  font-family: Felix Titling;
+  font-style:normal;
+  font-size: 1em;
+}
+
+.img_subtitle{
+  font-size:.7em;
+  font-style:italic;
+  text-align:center;
+}
