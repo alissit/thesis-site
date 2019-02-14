@@ -180,7 +180,7 @@ img {
 }
 
 .equal_height {
-  height:100px;
+  height:auto;
 }
 
 @media (min-width: 1200px) {
