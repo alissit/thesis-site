@@ -154,14 +154,17 @@ img {
 
 .header-title {
   font-family: Felix Titling;
+  font-size: 1.2em;
+}
+
+.header-title_big {
+  font-family: Felix Titling;
   font-style:italic;
   font-size: 1.4em;
 }
 
-.header-title_sub {
-  font-family: Felix Titling;
-  font-style:normal;
-  font-size: 1em;
+.header-title_sub{
+  font-size:.9em;
 }
 
 .img_subtitle{
