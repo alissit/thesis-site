@@ -188,6 +188,7 @@ img {
   font-size:.7em;
   font-style:italic;
   text-align:center;
+      white-space: nowrap;
 }
 
 .equal_height {
