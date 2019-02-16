@@ -188,7 +188,7 @@ img {
   font-size:.7em;
   font-style:italic;
   text-align:center;
-      white-space: nowrap;
+  white-space: nowrap;
 }
 
 .equal_height {
@@ -213,6 +213,10 @@ img {
 
   .equal_height {
   height:125px;
+}
+.img_subtitle{
+
+  white-space: nowrap;
 }
 }
 
