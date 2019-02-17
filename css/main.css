@@ -4,6 +4,11 @@
 body {
   font-size:20px;
 }
+
+.margin_less{
+  margin-left:-24px;
+}
+}
   
 }
 
