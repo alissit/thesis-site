@@ -328,6 +328,12 @@ font-size:1.8em;
 
 .back {
   padding:30px;
-  border: 1ps solid black;
-  
+  border: 1px solid black;
+
+}
+
+.next {
+  padding:30px;
+  border: 1px solid black;
+
 }
