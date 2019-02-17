@@ -140,6 +140,9 @@ img {
   left: 10%;
   transform: translate(-50%, -50%);
   color:white;
+  & a{
+    color:white;
+  }
 }
 .pagetwo {
   position: absolute;
@@ -147,6 +150,9 @@ img {
   left: 20%;
   transform: translate(-50%, -50%);
   color:white;
+   & a{
+    color:white;
+  }
 }
 .pagethree {
   position: absolute;
@@ -154,6 +160,9 @@ img {
   left: 80%;
   transform: translate(-50%, -50%);
   color:white;
+   & a{
+    color:white;
+  }
 }
 .pagefour {
   position: absolute;
@@ -161,6 +170,9 @@ img {
   left: 90%;
   transform: translate(-50%, -50%);
   color:white;
+   & a{
+    color:white;
+  }
 }
 
 
@@ -354,7 +366,7 @@ font-size:1.8em;
   text-decoration:none;
 }
 
-.page_button a{
+.page_button{
   color:white;
   text-decoration:none;
 }
