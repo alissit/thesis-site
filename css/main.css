@@ -8,6 +8,11 @@ body {
 .margin_less{
   margin-left:-24px;
 }
+
+.margin_less_more{
+  margin-left:-50px;
+}
+
 }
   
 }
