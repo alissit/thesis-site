@@ -340,7 +340,7 @@ font-size:1.8em;
 
 }
 
-.page_button {
+.page_button a{
   color:white;
   text-decoration:none;
 }
