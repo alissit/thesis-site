@@ -299,3 +299,8 @@ font-size:1.8em;
   font-family: mistral;
   font-size: 1.8em;
 }
+
+.text_underlinered {
+  text-decoration: underline;
+  color:red;
+}
