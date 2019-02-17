@@ -188,7 +188,6 @@ img {
   font-size:.7em;
   font-style:italic;
   text-align:center;
-  white-space: nowrap;
 }
 
 .equal_height {
@@ -281,3 +280,8 @@ text-align: center;
   font-size:1.2em;
 }
 
+.header-title_page25 {
+font-family: copperplate gothic bold;
+font-size:1.8em;
+
+}
