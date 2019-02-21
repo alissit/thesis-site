@@ -13,9 +13,7 @@ body {
   font-size:20px;
 }
 
-.container-fluid {
-  padding:0!important;
-}
+
 
 .margin_small{
   margin-left:-18px;
@@ -40,6 +38,7 @@ body {
    top:0;
    left:0;
    position:relative;
+   padding:0;
 }
 
 picture {
