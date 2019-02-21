@@ -181,7 +181,29 @@ p {
   font-size:.9em;
   font-family: 'Julee', cursive;
 }
+.pageone {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  color:white;
 
+}
+.pagetwo {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  color:white;
+
+}
+.pagethree {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  color:white;
+
+}
+.pagefour {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  color:white;
+}
 /*mobile and small tablets*/
 @media only screen and (max-width: 690px) and (min-width: 1px){
 .title {
@@ -212,38 +234,24 @@ p {
     left: 85%;
 }
 }
-@media only screen and (min-width: 690px){}
+@media only screen and (min-width: 690px){
 .pageone {
-  position: absolute;
   top: 50%;
   left: 10%;
-  transform: translate(-50%, -50%);
-  color:white;
-
 }
 .pagetwo {
-  position: absolute;
   top: 50%;
   left: 20%;
-  transform: translate(-50%, -50%);
-  color:white;
 
 }
 .pagethree {
-  position: absolute;
   top: 50%;
   left: 80%;
-  transform: translate(-50%, -50%);
-  color:white;
 
 }
 .pagefour {
-  position: absolute;
   top: 50%;
   left: 90%;
-  transform: translate(-50%, -50%);
-  color:white;
-}
 }
 
 
