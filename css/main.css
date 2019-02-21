@@ -99,8 +99,9 @@ p {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-  font-size:1.8em;
-  white-space:nowrap
+  font-size:1em;
+  white-space:nowrap;
+  font-family: Barbarian;
 }
 
 .title-italic{
@@ -410,4 +411,9 @@ z-index:9;
 .button-container {
   position:relative;
   text-align:center;
+}
+
+@font-face {
+  font-family: Barbarian;
+  src: /assets/fonts/(Barbarian NS.ttf);
 }
