@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Barbarian;
+  src: /assets/fonts/(Barbarian NS.ttf);
+}
 
 @media (min-width: 1281px) {
   
@@ -413,7 +417,3 @@ z-index:9;
   text-align:center;
 }
 
-@font-face {
-  font-family: Barbarian;
-  src: /assets/fonts/(Barbarian NS.ttf);
-}
