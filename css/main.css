@@ -12,7 +12,9 @@ src: url("lets eat.ttf");
 body {
   font-size:20px;
 }
-
+.container-fluid {
+  padding:0;
+}
 ..margin_small{
   margin-left:-18px;
 }
