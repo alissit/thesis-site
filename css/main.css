@@ -212,16 +212,14 @@ p {
     left: 85%;
 }
 }
-
+@media only screen and (min-width: 690px){}
 .pageone {
   position: absolute;
   top: 50%;
   left: 10%;
   transform: translate(-50%, -50%);
   color:white;
-  & a{
-    color:white;
-  }
+
 }
 .pagetwo {
   position: absolute;
@@ -229,9 +227,7 @@ p {
   left: 20%;
   transform: translate(-50%, -50%);
   color:white;
-   & a{
-    color:white;
-  }
+
 }
 .pagethree {
   position: absolute;
@@ -239,9 +235,7 @@ p {
   left: 80%;
   transform: translate(-50%, -50%);
   color:white;
-   & a{
-    color:white;
-  }
+
 }
 .pagefour {
   position: absolute;
@@ -249,9 +243,7 @@ p {
   left: 90%;
   transform: translate(-50%, -50%);
   color:white;
-   & a{
-    color:white;
-  }
+}
 }
 
 
