@@ -182,6 +182,37 @@ p {
   font-family: 'Julee', cursive;
 }
 
+/*mobile and small tablets*/
+@media only screen and (max-width: 690px) and (min-width: 1px){
+.title {
+  font-size:1.5em;
+}
+.sub-title {
+  width:80%;
+}
+.sub-title_two {
+  position: absolute;
+  top: 87%;
+}
+
+.pageone {
+    top: 40%;
+    left: 15%;
+}
+.pagetwo {
+    top: 60%;
+    left: 15%;
+}
+.pagethree {
+    top: 40%;
+    left: 85%;
+}
+.pagefour {
+  top: 60%;
+    left: 85%;
+}
+}
+
 .pageone {
   position: absolute;
   top: 50%;
