@@ -110,7 +110,7 @@ p {
   top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: #8E8E52;
   font-size:1.8em;
   font-family: Barbarian;
 }
@@ -125,7 +125,7 @@ p {
   top: 80%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color:white;
+  color:#5CFA3A;
   font-size:1.2em;
 }
 
@@ -446,7 +446,7 @@ font-size:1.8em;
 }
 
 .page_button{
-    color:white;
+    color:#FBF967;
   text-decoration:none;
   position: absolute;
   top: 50%;
