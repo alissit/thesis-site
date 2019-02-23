@@ -125,7 +125,8 @@ p {
   top: 80%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color:#5CFA3A;
+
+  color:#FBF967;
   font-size:1.2em;
 }
 
@@ -140,7 +141,7 @@ p {
   top: 75%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color:white;
+  color:#FBF967;
   font-size:1.2em;
   font-family: 'Julee', cursive;
 }
@@ -157,7 +158,7 @@ p {
   top: 83%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color:white;
+  color:#FBF967;
   font-size:1.2em;
   font-family: 'Julee', cursive;
 }
@@ -167,7 +168,7 @@ p {
   top: 93%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color:white;
+  color:#FBF967;
   font-size:.9em;
   font-family: 'Julee', cursive;
 }
@@ -177,7 +178,7 @@ p {
   top: 95%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color:white;
+  color:#FBF967;
   font-size:.9em;
   font-family: 'Julee', cursive;
 }
@@ -446,7 +447,7 @@ font-size:1.8em;
 }
 
 .page_button{
-    color:#FBF967;
+    color:#5CFA3A;
   text-decoration:none;
   position: absolute;
   top: 50%;
