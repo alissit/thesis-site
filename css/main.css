@@ -110,7 +110,8 @@ p {
   top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #8E8E52;
+  color: #cd7f32;
+  text-shadow: 5px 5px 20px #000000;
   font-size:1.8em;
   font-family: Barbarian;
 }
